@@ -1,4 +1,4 @@
-# 🧩 B2B MERN Project Management System – Jira Clone (Fullstack)
+# 🧩 B2B MERN Project Management System – TeamSync (Fullstack)
 
 A **production-grade SaaS Project Management System** built with the **MERN stack** (MongoDB, Express, React, Node.js + Next.js). This app features **multi-tenancy**, **role-based access control**, **Google Sign-In**, **task and project management**, **workspace collaboration**, **search/filtering**, **analytics**, and **session management** — ideal for building real-world Jira-like platforms.
 
